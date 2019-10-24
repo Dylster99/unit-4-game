@@ -1,0 +1,27 @@
+#instructions {
+    background-color: grey;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
+
+#targetscorediv {
+    background-color: lawngreen;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
+
+#score {
+    background-color: lawngreen;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
+
+#winloss {
+    background-color: lawngreen;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
